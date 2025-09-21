@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Filipe Alves</h1>
-<h3 align="center">Desenvolvedor backend brasileiro que adora o que faz</h3>
+<h1 align="center">Me chamo Filipe Alves, bem-vindo ao meu perfil! 👋</h1>
+<h3 align="center">Desenvolvedor Back-end, eu tranformo ideias em produtos.</h3>
 
 - 📝 Atualmente estou aprendendo **Java, Spring Boot, React e PostgreSQL**
 
