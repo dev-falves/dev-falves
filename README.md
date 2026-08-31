@@ -1,7 +1,7 @@
 <h1 align="center">Me chamo Filipe Alves, bem-vindo ao meu perfil! 👋</h1>
 <h3 align="center">Arquiteto de Soluções, eu tranformo ideias em produtos.</h3>
 
-- 📝 Atualmente estou aprendendo **AWS, Linux e Python!**
+- 📝 Atualmente estou aprendendo **AWS, Linux e C#!**
 
 - 👨‍💻 Eu trabalho com **Automação Comercial e Redes de Computadores**
 
