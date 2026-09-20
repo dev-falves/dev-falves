@@ -1,11 +1,11 @@
 <h1 align="center">Me chamo Filipe Alves, bem-vindo ao meu perfil! 👋</h1>
-<h3 align="center">Arquiteto de Soluções, eu tranformo ideias em produtos.</h3>
+<h3 align="center">​Desenvolvedor back-end, transformo ideias em produtos.</h3>
 
-- 📝 Atualmente estou aprendendo **AWS, Linux e C#!**
+- 📝 Atualmente estou me aprofundando em **C# / .NET e Oracle DB!**
 
-- 👨‍💻 Eu trabalho com **Automação Comercial e Redes de Computadores**
+- 👨‍💻 Eu trabalho com **C# / .NET e Oracle DB em uma das maiores empresas de varejo de São Paulo**
 
-- 🤝 Estou procurando colaborar com **projetos de rede, cloud, AWS e Linux!**
+- 🤝 Estou procurando colaborar com **projetos back-end completos!**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
