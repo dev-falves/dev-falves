@@ -1,7 +1,7 @@
 <h1 align="center">Me chamo Filipe Alves, bem-vindo ao meu perfil! 👋</h1>
 <h3 align="center">​Desenvolvedor back-end, transformo ideias em produtos.</h3>
 
-- 📝 Atualmente estou me aprofundando em **C# / .NET e Oracle DB!**
+- 📝 Atualmente estou me aprofundando em **APIs RESTful!**
 
 - 👨‍💻 Eu trabalho com **C# / .NET e Oracle DB em uma das maiores empresas de varejo de São Paulo**
 
